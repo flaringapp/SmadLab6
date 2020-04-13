@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SmadLab6</string>
+    <string name="enter_numbers_1">Enter numbers of observer 1</string>
+    <string name="enter_numbers_2">Enter numbers of observer 2</string>
+    <string name="enter_numbers_3">Enter numbers of observer 3</string>
+    <string name="enter_numbers_4">Enter numbers of observer 4</string>
+    <string name="input_too_short">Input too short</string>
+    <string name="input_numbers_less_than_max">Input numbers count is less than max of all inputs</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="input_invalid_dot">Input can\'t contain single dot \".\" symbol</string>
+    <string name="input_invalid_only_decimal">Use only decimal symbols please</string>
+    <string name="significanceInterval1">0.05</string>
+    <string name="significanceInterval2">0.01</string>
+    <string name="intergroup_variance">Intergroup variance</string>
+    <string name="residual_variance">Residual variance</string>
+    <string name="total_variance">Total variance</string>
+    <string name="fisher_criterion">Fisher criterion</string>
+</resources>
